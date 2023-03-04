@@ -50,8 +50,10 @@ export default HomePage
 
 Note that we removed nearly everything from these two pages as all the content and navigation will be created by all supported UI libraries:
 
-[Chakra UI](https://github.com/adriatic/rw-chakra) <br>
-[Daisy UI](https://github.com/adriatic/rw-daisyUI) <br>
-[Tailwind UI](https://github.com/adriatic/rw-Tailwind-UI) <br>
-[Bootstrap 5](https://github.com/adriatic/rw-Boostrap-5) <br>
+- [Chakra UI](https://github.com/adriatic/rw-chakra) <br>
+- [Daisy UI](https://github.com/adriatic/rw-daisyUI) <br>
+- [Tailwind UI](https://github.com/adriatic/rw-Tailwind-UI) <br>
+- [Bootstrap 5](https://github.com/adriatic/rw-Boostrap-5) <br>
+
+Each of these repositories contains the code from [rw-minimal-app](https://github.com/adriatic/rw-minimal-app) which is subsequently augmented by the code from the respected UI components library.
 
