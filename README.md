@@ -58,4 +58,4 @@ Note that we removed nearly everything from these two pages as all the content a
 
 - [Bootstrap 5](https://github.com/adriatic/rw-Boostrap-5)
 
-Each of these repositories contains the code from [rw-minimal-app](https://github.com/adriatic/rw-minimal-app) which is subsequently augmented by the code from the respected UI components library.
+Each of these repositories contains the code from **this** [rw-minimal-app](https://github.com/adriatic/rw-minimal-app) which is subsequently augmented by the code from the respected UI components library.
