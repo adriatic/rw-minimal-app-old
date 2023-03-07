@@ -1,6 +1,6 @@
 # README
 
-This application is built using several first CLI commands from the [Starting Development](https://redwoodjs.com/docs/tutorial/chapter1/installation) tutorial document:
+This base application of all RW UI samples is a clone of [rw-minimal-app](https://github.com/adriatic/rw-minimal-app) created using CLI commands from the [Starting Development](https://redwoodjs.com/docs/tutorial/chapter1/installation) tutorial document:
 
 ```
 yarn create redwood-app --ts ./minimal-application
@@ -50,10 +50,12 @@ export default HomePage
 
 Note that we removed nearly everything from these two pages as all the content and navigation will be created by all supported UI libraries:
 
-- [Chakra UI](https://github.com/adriatic/rw-chakra) <br>
-- [Daisy UI](https://github.com/adriatic/rw-daisyUI) <br>
-- [Tailwind UI](https://github.com/adriatic/rw-Tailwind-UI) <br>
-- [Bootstrap 5](https://github.com/adriatic/rw-Boostrap-5) <br>
+- [Chakra UI](https://github.com/adriatic/rw-chakra)
+
+- [Tailwindcss](https://tailwindcss.com/?ref=creativetim)
+
+- [Daisy UI](https://github.com/adriatic/rw-daisyUI)
+
+- [Bootstrap 5](https://github.com/adriatic/rw-Boostrap-5)
 
 Each of these repositories contains the code from [rw-minimal-app](https://github.com/adriatic/rw-minimal-app) which is subsequently augmented by the code from the respected UI components library.
-
