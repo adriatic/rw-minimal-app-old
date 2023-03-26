@@ -5,7 +5,7 @@ const HomePage = () => {
     <>
       <MetaTags title="Home" description="Home page" />
 
-      <h1>Home Page</h1>
+      <h1>Home Page this will be the cockpit</h1>
     </>
   )
 }
